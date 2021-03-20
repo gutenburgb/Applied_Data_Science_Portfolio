@@ -1,3 +1,9 @@
+# Table of Contents
+1. [Ball_Syracuse_Football_Coach.pdf]()
+  - Report for this project
+2. [IST_718_lab1_football_coaches.ipynb]()
+  - Google Colab code for this project, in ipynb exported form
+
 # Running this Script
 ## Access through Google Colab
 available [at this url](https://colab.research.google.com/drive/1yTUkZpJyN0hE1UiJy-Md92qPNFFXW1Qu?usp=sharing)

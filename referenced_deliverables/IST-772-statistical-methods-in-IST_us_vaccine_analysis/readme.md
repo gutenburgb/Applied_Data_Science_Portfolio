@@ -1,3 +1,7 @@
+# Table of Contents
+1. [Leland_Ball_Vaccine_Analysis_Report.pdf]()
+  - Report for this project
+
 # Running this script
 ## Load into RStudio
 - Open data-analysis.R in RStudio
