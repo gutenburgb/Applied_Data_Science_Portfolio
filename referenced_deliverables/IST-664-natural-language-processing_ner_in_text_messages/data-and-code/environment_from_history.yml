@@ -1,0 +1,13 @@
+name: ball_sms_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - seaborn
+  - spacy
+  - pandas
+  - nltk
+  - python=3.7
+  - pyprind
+  - matplotlib
+prefix: C:\Users\Leland\Anaconda3\envs\ball_sms_env

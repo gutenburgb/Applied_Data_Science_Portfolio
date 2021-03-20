@@ -1,0 +1,130 @@
+sportCode,gsr,orgId,cohortYear,sportDesc,conferenceName,fgrReportLink,gsrReportLink,conferenceId,orgName,state,fgr
+,,,,,,,,,air force,,
+MFB,58,5,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/5.pdf,https://web1.ncaa.org/app_data/gsr2013/5.pdf,875,University of Akron,OH,52
+MFB,73,8,2006,Football,Southeastern Conference,https://web1.ncaa.org/app_data/inst2013/8.pdf,https://web1.ncaa.org/app_data/gsr2013/8.pdf,911,University of Alabama,AL,57
+MFB,60,9,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/9.pdf,https://web1.ncaa.org/app_data/gsr2013/9.pdf,24312,University of Alabama at Birmingham,AL,55
+MFB,68,27,2006,Football,Southern Conference,https://web1.ncaa.org/app_data/inst2013/27.pdf,https://web1.ncaa.org/app_data/gsr2013/27.pdf,912,Appalachian State University,NC,56
+MFB,61,29,2006,Football,Pac-12 Conference,https://web1.ncaa.org/app_data/inst2013/29.pdf,https://web1.ncaa.org/app_data/gsr2013/29.pdf,905,University of Arizona,AZ,59
+MFB,67,28,2006,Football,Pac-12 Conference,https://web1.ncaa.org/app_data/inst2013/28.pdf,https://web1.ncaa.org/app_data/gsr2013/28.pdf,905,Arizona State University,AZ,52
+MFB,68,30,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/30.pdf,https://web1.ncaa.org/app_data/gsr2013/30.pdf,818,Arkansas State University,AR,60
+MFB,68,30,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/30.pdf,https://web1.ncaa.org/app_data/gsr2013/30.pdf,818,Arkansas State University,AR,60
+MFB,48,716,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/716.pdf,https://web1.ncaa.org/app_data/gsr2013/716.pdf,818,Troy University,AL,43
+MFB,70,37,2006,Football,Southeastern Conference,https://web1.ncaa.org/app_data/inst2013/37.pdf,https://web1.ncaa.org/app_data/gsr2013/37.pdf,911,Auburn University,AL,61
+MFB,60,47,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/47.pdf,https://web1.ncaa.org/app_data/gsr2013/47.pdf,875,Ball State University,IN,54
+MFB,67,51,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/51.pdf,https://web1.ncaa.org/app_data/gsr2013/51.pdf,25354,Baylor University,TX,48
+MFB,91,66,2006,Football,Mountain West Conference,https://web1.ncaa.org/app_data/inst2013/66.pdf,https://web1.ncaa.org/app_data/gsr2013/66.pdf,5486,Boise State University,ID,67
+MFB,94,67,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/67.pdf,https://web1.ncaa.org/app_data/gsr2013/67.pdf,821,Boston College,MA,86
+MFB,70,71,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/71.pdf,https://web1.ncaa.org/app_data/gsr2013/71.pdf,875,Bowling Green State University,OH,55
+MFB,57,77,2006,Football,Independent,https://web1.ncaa.org/app_data/inst2013/77.pdf,https://web1.ncaa.org/app_data/gsr2013/77.pdf,0,Brigham Young University,UT,42
+MFB,60,47,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/47.pdf,https://web1.ncaa.org/app_data/gsr2013/47.pdf,875,Ball State University,IN,54
+MFB,57,17,2006,Football,Southwestern Athletic Conf.,https://web1.ncaa.org/app_data/inst2013/17.pdf,https://web1.ncaa.org/app_data/gsr2013/17.pdf,916,Alcorn State University,MS,39
+MFB,83,128,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/128.pdf,https://web1.ncaa.org/app_data/gsr2013/128.pdf,24312,University of Central Florida,FL,58
+MFB,51,129,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/129.pdf,https://web1.ncaa.org/app_data/gsr2013/129.pdf,875,Central Michigan University,MI,37
+,,,,,,,,,charlotte,,
+MFB,65,140,2006,Football,American Athletic Conference,https://web1.ncaa.org/app_data/inst2013/140.pdf,https://web1.ncaa.org/app_data/gsr2013/140.pdf,823,University of Cincinnati,OH,57
+MFB,77,147,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/147.pdf,https://web1.ncaa.org/app_data/gsr2013/147.pdf,821,Clemson University,SC,59
+MFB,66,149,2006,Football,Big South Conference,https://web1.ncaa.org/app_data/inst2013/149.pdf,https://web1.ncaa.org/app_data/gsr2013/149.pdf,826,Coastal Carolina University,SC,57
+MFB,78,156,2006,Football,Mountain West Conference,https://web1.ncaa.org/app_data/inst2013/156.pdf,https://web1.ncaa.org/app_data/gsr2013/156.pdf,5486,Colorado State University,CO,68
+MFB,78,156,2006,Football,Mountain West Conference,https://web1.ncaa.org/app_data/inst2013/156.pdf,https://web1.ncaa.org/app_data/gsr2013/156.pdf,5486,Colorado State University,CO,68
+MFB,65,164,2006,Football,American Athletic Conference,https://web1.ncaa.org/app_data/inst2013/164.pdf,https://web1.ncaa.org/app_data/gsr2013/164.pdf,823,University of Connecticut,CT,54
+MFB,90,193,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/193.pdf,https://web1.ncaa.org/app_data/gsr2013/193.pdf,821,Duke University,NC,81
+MFB,66,196,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/196.pdf,https://web1.ncaa.org/app_data/gsr2013/196.pdf,24312,East Carolina University,NC,57
+MFB,59,204,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/204.pdf,https://web1.ncaa.org/app_data/gsr2013/204.pdf,875,Eastern Michigan University,MI,43
+MFB,77,235,2006,Football,Southeastern Conference,https://web1.ncaa.org/app_data/inst2013/235.pdf,https://web1.ncaa.org/app_data/gsr2013/235.pdf,911,University of Florida,FL,49
+MFB,54,229,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/229.pdf,https://web1.ncaa.org/app_data/gsr2013/229.pdf,818,Florida Atlantic University,FL,49
+MFB,47,231,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/231.pdf,https://web1.ncaa.org/app_data/gsr2013/231.pdf,818,Florida International University,FL,41
+MFB,58,234,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/234.pdf,https://web1.ncaa.org/app_data/gsr2013/234.pdf,821,Florida State University,FL,47
+,,,,,,,,,fresno state,,
+MFB,82,257,2006,Football,Southeastern Conference,https://web1.ncaa.org/app_data/inst2013/257.pdf,https://web1.ncaa.org/app_data/gsr2013/257.pdf,911,University of Georgia,GA,70
+MFB,48,253,2006,Football,Southern Conference,https://web1.ncaa.org/app_data/inst2013/253.pdf,https://web1.ncaa.org/app_data/gsr2013/253.pdf,912,Georgia Southern University,GA,38
+,,,,,,,,,georgia state,,
+,,,,,,,,,georgia tech,,
+MFB,60,311,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/311.pdf,https://web1.ncaa.org/app_data/gsr2013/311.pdf,25354,Iowa State University,IA,48
+MFB,57,288,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/288.pdf,https://web1.ncaa.org/app_data/gsr2013/288.pdf,24312,University of Houston,TX,53
+MFB,75,299,2006,Football,Missouri Valley Football Conference,https://web1.ncaa.org/app_data/inst2013/299.pdf,https://web1.ncaa.org/app_data/gsr2013/299.pdf,853,Illinois State University,IL,59
+MFB,57,305,2006,Football,Missouri Valley Football Conference,https://web1.ncaa.org/app_data/inst2013/305.pdf,https://web1.ncaa.org/app_data/gsr2013/305.pdf,853,Indiana State University,IN,55
+MFB,81,312,2006,Football,Big Ten Conference,https://web1.ncaa.org/app_data/inst2013/312.pdf,https://web1.ncaa.org/app_data/gsr2013/312.pdf,827,University of Iowa,IA,66
+MFB,60,311,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/311.pdf,https://web1.ncaa.org/app_data/gsr2013/311.pdf,25354,Iowa State University,IA,48
+MFB,69,328,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/328.pdf,https://web1.ncaa.org/app_data/gsr2013/328.pdf,25354,University of Kansas,KS,53
+MFB,59,327,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/327.pdf,https://web1.ncaa.org/app_data/gsr2013/327.pdf,25354,Kansas State University,KS,53
+MFB,58,331,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/331.pdf,https://web1.ncaa.org/app_data/gsr2013/331.pdf,875,Kent State University,OH,52
+MFB,62,334,2006,Football,Southeastern Conference,https://web1.ncaa.org/app_data/inst2013/334.pdf,https://web1.ncaa.org/app_data/gsr2013/334.pdf,911,University of Kentucky,KY,55
+MFB,65,355,2006,Football,Big South Conference,https://web1.ncaa.org/app_data/inst2013/355.pdf,https://web1.ncaa.org/app_data/gsr2013/355.pdf,826,Liberty University,VA,54
+MFB,79,366,2006,Football,Western Athletic Conference,https://web1.ncaa.org/app_data/inst2013/366.pdf,https://web1.ncaa.org/app_data/gsr2013/366.pdf,923,Louisiana Tech University,LA,57
+MFB,65,671,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/671.pdf,https://web1.ncaa.org/app_data/gsr2013/671.pdf,818,University of Louisiana at Lafayette,LA,62
+MFB,59,498,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/498.pdf,https://web1.ncaa.org/app_data/gsr2013/498.pdf,818,University of Louisiana Monroe,LA,51
+MFB,66,367,2006,Football,American Athletic Conference,https://web1.ncaa.org/app_data/inst2013/367.pdf,https://web1.ncaa.org/app_data/gsr2013/367.pdf,823,University of Louisville,KY,49
+MFB,84,731,2006,Football,Western Athletic Conference,https://web1.ncaa.org/app_data/inst2013/731.pdf,https://web1.ncaa.org/app_data/gsr2013/731.pdf,923,Utah State University,UT,56
+MFB,66,388,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/388.pdf,https://web1.ncaa.org/app_data/gsr2013/388.pdf,24312,Marshall University,WV,54
+MFB,59,550,2006,Football,Big Sky Conference,https://web1.ncaa.org/app_data/inst2013/550.pdf,https://web1.ncaa.org/app_data/gsr2013/550.pdf,825,Portland State University,OR,43
+,,,,,,,,,massachusetts,,
+MFB,74,404,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/404.pdf,https://web1.ncaa.org/app_data/gsr2013/404.pdf,24312,University of Memphis,TN,65
+MFB,86,415,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/415.pdf,https://web1.ncaa.org/app_data/gsr2013/415.pdf,821,University of Miami (Florida),FL,69
+MFB,86,415,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/415.pdf,https://web1.ncaa.org/app_data/gsr2013/415.pdf,821,University of Miami (Florida),FL,69
+MFB,66,418,2006,Football,Big Ten Conference,https://web1.ncaa.org/app_data/inst2013/418.pdf,https://web1.ncaa.org/app_data/gsr2013/418.pdf,827,University of Michigan,MI,57
+MFB,70,416,2006,Football,Big Ten Conference,https://web1.ncaa.org/app_data/inst2013/416.pdf,https://web1.ncaa.org/app_data/gsr2013/416.pdf,827,Michigan State University,MI,54
+MFB,73,419,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/419.pdf,https://web1.ncaa.org/app_data/gsr2013/419.pdf,818,Middle Tennessee State University,TN,54
+,,,,,,,,,minnesota,,
+MFB,55,433,2006,Football,Southeastern Conference,https://web1.ncaa.org/app_data/inst2013/433.pdf,https://web1.ncaa.org/app_data/gsr2013/433.pdf,911,University of Mississippi,MS,42
+MFB,59,430,2006,Football,Southeastern Conference,https://web1.ncaa.org/app_data/inst2013/430.pdf,https://web1.ncaa.org/app_data/gsr2013/430.pdf,911,Mississippi State University,MS,46
+MFB,63,669,2006,Football,Missouri Valley Football Conference,https://web1.ncaa.org/app_data/inst2013/669.pdf,https://web1.ncaa.org/app_data/gsr2013/669.pdf,853,Missouri State University,MO,67
+MFB,59,327,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/327.pdf,https://web1.ncaa.org/app_data/gsr2013/327.pdf,25354,Kansas State University,KS,53
+,,,,,,,,,nebraska,,
+MFB,71,466,2006,Football,Mountain West Conference,https://web1.ncaa.org/app_data/inst2013/466.pdf,https://web1.ncaa.org/app_data/gsr2013/466.pdf,5486,"University of Nevada, Reno",NV,62
+MFB,64,465,2006,Football,Mountain West Conference,https://web1.ncaa.org/app_data/inst2013/465.pdf,https://web1.ncaa.org/app_data/gsr2013/465.pdf,5486,"University of Nevada, Las Vegas",NV,69
+MFB,58,473,2006,Football,Mountain West Conference,https://web1.ncaa.org/app_data/inst2013/473.pdf,https://web1.ncaa.org/app_data/gsr2013/473.pdf,5486,University of New Mexico,NM,42
+MFB,63,472,2006,Football,Western Athletic Conference,https://web1.ncaa.org/app_data/inst2013/472.pdf,https://web1.ncaa.org/app_data/gsr2013/472.pdf,923,New Mexico State University,NM,44
+MFB,64,490,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/490.pdf,https://web1.ncaa.org/app_data/gsr2013/490.pdf,821,North Carolina State University,NC,57
+MFB,64,490,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/490.pdf,https://web1.ncaa.org/app_data/gsr2013/490.pdf,821,North Carolina State University,NC,57
+MFB,65,497,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/497.pdf,https://web1.ncaa.org/app_data/gsr2013/497.pdf,818,University of North Texas,TX,62
+MFB,85,503,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/503.pdf,https://web1.ncaa.org/app_data/gsr2013/503.pdf,875,Northern Illinois University,IL,67
+MFB,97,509,2006,Football,Big Ten Conference,https://web1.ncaa.org/app_data/inst2013/509.pdf,https://web1.ncaa.org/app_data/gsr2013/509.pdf,827,Northwestern University,IL,92
+MFB,93,513,2006,Football,Independent,https://web1.ncaa.org/app_data/inst2013/513.pdf,https://web1.ncaa.org/app_data/gsr2013/513.pdf,0,University of Notre Dame,IN,74
+MFB,75,519,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/519.pdf,https://web1.ncaa.org/app_data/gsr2013/519.pdf,875,Ohio University,OH,65
+MFB,75,518,2006,Football,Big Ten Conference,https://web1.ncaa.org/app_data/inst2013/518.pdf,https://web1.ncaa.org/app_data/gsr2013/518.pdf,827,The Ohio State University,OH,58
+MFB,51,522,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/522.pdf,https://web1.ncaa.org/app_data/gsr2013/522.pdf,25354,University of Oklahoma,OK,43
+MFB,56,521,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/521.pdf,https://web1.ncaa.org/app_data/gsr2013/521.pdf,25354,Oklahoma State University,OK,45
+MFB,50,523,2006,Football,Colonial Athletic Association,https://web1.ncaa.org/app_data/inst2013/523.pdf,https://web1.ncaa.org/app_data/gsr2013/523.pdf,837,Old Dominion University,VA,
+MFB,72,529,2006,Football,Pac-12 Conference,https://web1.ncaa.org/app_data/inst2013/529.pdf,https://web1.ncaa.org/app_data/gsr2013/529.pdf,905,University of Oregon,OR,57
+MFB,66,528,2006,Football,Pac-12 Conference,https://web1.ncaa.org/app_data/inst2013/528.pdf,https://web1.ncaa.org/app_data/gsr2013/528.pdf,905,Oregon State University,OR,59
+MFB,58,331,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/331.pdf,https://web1.ncaa.org/app_data/gsr2013/331.pdf,875,Kent State University,OH,52
+MFB,68,545,2006,Football,American Athletic Conference,https://web1.ncaa.org/app_data/inst2013/545.pdf,https://web1.ncaa.org/app_data/gsr2013/545.pdf,823,University of Pittsburgh,PA,55
+MFB,64,559,2006,Football,Big Ten Conference,https://web1.ncaa.org/app_data/inst2013/559.pdf,https://web1.ncaa.org/app_data/gsr2013/559.pdf,827,Purdue University,IN,57
+MFB,96,574,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/574.pdf,https://web1.ncaa.org/app_data/gsr2013/574.pdf,24312,Rice University,TX,89
+MFB,64,670,2006,Football,Western Athletic Conference,https://web1.ncaa.org/app_data/inst2013/670.pdf,https://web1.ncaa.org/app_data/gsr2013/670.pdf,923,Texas State University,TX,45
+MFB,68,626,2006,Football,Mountain West Conference,https://web1.ncaa.org/app_data/inst2013/626.pdf,https://web1.ncaa.org/app_data/gsr2013/626.pdf,5486,San Diego State University,CA,66
+MFB,51,630,2006,Football,Western Athletic Conference,https://web1.ncaa.org/app_data/inst2013/630.pdf,https://web1.ncaa.org/app_data/gsr2013/630.pdf,923,San Jose State University,CA,53
+,,,,,,,,,south alabama,,
+MFB,50,647,2006,Football,Mid-Eastern Athletic Conf.,https://web1.ncaa.org/app_data/inst2013/647.pdf,https://web1.ncaa.org/app_data/gsr2013/647.pdf,876,South Carolina State University,SC,41
+MFB,57,651,2006,Football,American Athletic Conference,https://web1.ncaa.org/app_data/inst2013/651.pdf,https://web1.ncaa.org/app_data/gsr2013/651.pdf,823,University of South Florida,FL,39
+MFB,53,657,2006,Football,Pac-12 Conference,https://web1.ncaa.org/app_data/inst2013/657.pdf,https://web1.ncaa.org/app_data/gsr2013/657.pdf,905,University of Southern California,CA,44
+MFB,75,663,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/663.pdf,https://web1.ncaa.org/app_data/gsr2013/663.pdf,24312,Southern Methodist University,TX,63
+MFB,71,664,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/664.pdf,https://web1.ncaa.org/app_data/gsr2013/664.pdf,24312,The University of Southern Mississippi,MS,59
+MFB,93,674,2006,Football,Pac-12 Conference,https://web1.ncaa.org/app_data/inst2013/674.pdf,https://web1.ncaa.org/app_data/gsr2013/674.pdf,905,Stanford University,CA,89
+MFB,77,688,2006,Football,American Athletic Conference,https://web1.ncaa.org/app_data/inst2013/688.pdf,https://web1.ncaa.org/app_data/gsr2013/688.pdf,823,Syracuse University,NY,64
+MFB,51,691,2006,Football,Ohio Valley Conference,https://web1.ncaa.org/app_data/inst2013/691.pdf,https://web1.ncaa.org/app_data/gsr2013/691.pdf,902,Tennessee State University,TN,45
+MFB,64,670,2006,Football,Western Athletic Conference,https://web1.ncaa.org/app_data/inst2013/670.pdf,https://web1.ncaa.org/app_data/gsr2013/670.pdf,923,Texas State University,TX,45
+MFB,64,670,2006,Football,Western Athletic Conference,https://web1.ncaa.org/app_data/inst2013/670.pdf,https://web1.ncaa.org/app_data/gsr2013/670.pdf,923,Texas State University,TX,45
+MFB,85,698,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/698.pdf,https://web1.ncaa.org/app_data/gsr2013/698.pdf,25354,Texas Christian University,TX,80
+MFB,64,670,2006,Football,Western Athletic Conference,https://web1.ncaa.org/app_data/inst2013/670.pdf,https://web1.ncaa.org/app_data/gsr2013/670.pdf,923,Texas State University,TX,45
+MFB,72,700,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/700.pdf,https://web1.ncaa.org/app_data/gsr2013/700.pdf,25354,Texas Tech University,TX,56
+MFB,66,704,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/704.pdf,https://web1.ncaa.org/app_data/gsr2013/704.pdf,24312,University of Texas at El Paso,TX,59
+,,,,,,,,,texas-san antonio,,
+MFB,67,709,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/709.pdf,https://web1.ncaa.org/app_data/gsr2013/709.pdf,875,University of Toledo,OH,60
+MFB,48,716,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/716.pdf,https://web1.ncaa.org/app_data/gsr2013/716.pdf,818,Troy University,AL,43
+MFB,82,718,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/718.pdf,https://web1.ncaa.org/app_data/gsr2013/718.pdf,24312,Tulane University,LA,63
+MFB,75,719,2006,Football,Conference USA,https://web1.ncaa.org/app_data/inst2013/719.pdf,https://web1.ncaa.org/app_data/gsr2013/719.pdf,24312,The University of Tulsa,OK,59
+MFB,84,731,2006,Football,Western Athletic Conference,https://web1.ncaa.org/app_data/inst2013/731.pdf,https://web1.ncaa.org/app_data/gsr2013/731.pdf,923,Utah State University,UT,56
+MFB,73,732,2006,Football,Pac-12 Conference,https://web1.ncaa.org/app_data/inst2013/732.pdf,https://web1.ncaa.org/app_data/gsr2013/732.pdf,905,University of Utah,UT,57
+MFB,84,731,2006,Football,Western Athletic Conference,https://web1.ncaa.org/app_data/inst2013/731.pdf,https://web1.ncaa.org/app_data/gsr2013/731.pdf,923,Utah State University,UT,56
+MFB,82,736,2006,Football,Southeastern Conference,https://web1.ncaa.org/app_data/inst2013/736.pdf,https://web1.ncaa.org/app_data/gsr2013/736.pdf,911,Vanderbilt University,TN,68
+MFB,74,746,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/746.pdf,https://web1.ncaa.org/app_data/gsr2013/746.pdf,821,University of Virginia,VA,69
+MFB,74,746,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/746.pdf,https://web1.ncaa.org/app_data/gsr2013/746.pdf,821,University of Virginia,VA,69
+MFB,86,749,2006,Football,Atlantic Coast Conference,https://web1.ncaa.org/app_data/inst2013/749.pdf,https://web1.ncaa.org/app_data/gsr2013/749.pdf,821,Wake Forest University,NC,77
+MFB,74,756,2006,Football,Pac-12 Conference,https://web1.ncaa.org/app_data/inst2013/756.pdf,https://web1.ncaa.org/app_data/gsr2013/756.pdf,905,University of Washington,WA,66
+MFB,57,754,2006,Football,Pac-12 Conference,https://web1.ncaa.org/app_data/inst2013/754.pdf,https://web1.ncaa.org/app_data/gsr2013/754.pdf,905,Washington State University,WA,51
+MFB,80,768,2006,Football,Big 12 Conference,https://web1.ncaa.org/app_data/inst2013/768.pdf,https://web1.ncaa.org/app_data/gsr2013/768.pdf,25354,West Virginia University,WV,61
+MFB,72,772,2006,Football,Sun Belt Conference,https://web1.ncaa.org/app_data/inst2013/772.pdf,https://web1.ncaa.org/app_data/gsr2013/772.pdf,818,Western Kentucky University,KY,59
+MFB,68,774,2006,Football,Mid-American Conference,https://web1.ncaa.org/app_data/inst2013/774.pdf,https://web1.ncaa.org/app_data/gsr2013/774.pdf,875,Western Michigan University,MI,58
+,,,,,,,,,wisconsin,,
+MFB,65,811,2006,Football,Mountain West Conference,https://web1.ncaa.org/app_data/inst2013/811.pdf,https://web1.ncaa.org/app_data/gsr2013/811.pdf,5486,University of Wyoming,WY,48

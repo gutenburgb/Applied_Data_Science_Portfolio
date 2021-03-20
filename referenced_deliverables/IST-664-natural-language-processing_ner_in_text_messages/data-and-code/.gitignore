@@ -1,0 +1,7 @@
+.idea
+**/*.pyc
+**/*.pdf
+**/*.doc[x]
+**/~*
+data
+en_core_web_*

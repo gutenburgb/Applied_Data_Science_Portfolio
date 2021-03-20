@@ -1,0 +1,16 @@
+name: police_incidents
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib
+  - descartes
+  - gensim
+  - pandas
+  - geopandas
+  - pyemd
+  - python=3.8
+  - geoplot
+  - wordcloud
+  - pendulum
+prefix: C:\Users\Leland\Anaconda3\envs\police_incidents

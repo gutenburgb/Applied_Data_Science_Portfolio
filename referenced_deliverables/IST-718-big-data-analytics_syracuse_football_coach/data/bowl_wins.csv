@@ -1,0 +1,84 @@
+Coach,coach_bowl_tie,School,coach_bowl_pct,coach_bowl_loss,coach_bowl_rank,coach_bowl_win,Notes
+Urban Meyer,0,"Bowling Green State, Florida, Ohio State, Utah",0.8,3,1.0,12,
+Tom O'Brien,0,"Boston College, North Carolina State",0.8,2,nan,8,
+Kyle Whittingham,0,Utah,0.7859999999999999,3,3.0,11,
+Pat Dye,1,"Auburn, East Carolina, Wyoming",0.75,2,4.0,7,
+Skip Holtz,0,"East Carolina, Louisiana Tech, South Florida",0.727,3,5.0,8,
+Bob Devaney,0,"Nebraska, Wyoming",0.7,3,6.0,7,
+Dan Devine,0,"Arizona State, Missouri, Notre Dame",0.7,3,nan,7,record adjusted to 173-56-9 by NCAA
+June Jones,0,"Hawaii, SMU",0.7,3,nan,7,
+Mike Riley,0,"Nebraska, Oregon State",0.7,3,nan,7,
+Jeff Tedford,0,"California, Fresno State",0.7,3,nan,7,
+Barry Alvarez,0,Wisconsin,0.6920000000000001,4,11.0,9,record adjusted to 119-74-4 by NCAA
+Bobby Dodd,0,Georgia Tech,0.6920000000000001,4,nan,9,
+Bobby Bowden,1,"Florida State, West Virginia",0.682,10,13.0,22,record adjusted to 346-123-4 by NCAA
+Don James,0,"Kent State, Washington",0.667,5,14.0,10,record adjusted to 178-76-3 by NCAA
+Joe Paterno,1,Penn State,0.662,12,15.0,24,
+Terry Donahue,1,UCLA,0.654,4,16.0,8,record adjusted to 144-81-8 by NCAA
+Gary Patterson,0,Texas Christian,0.647,6,17.0,11,
+Mike Gundy,0,Oklahoma State,0.643,5,18.0,9,
+Mack Brown,0,"North Carolina, Texas, Tulane",0.636,8,19.0,14,
+David Cutcliffe,0,"Duke, Ole Miss",0.636,4,nan,7,
+Gary Pinkel,0,"Missouri, Toledo",0.636,4,nan,7,
+Dabo Swinney,0,Clemson,0.625,6,22.0,10,
+Barry Switzer,0,Oklahoma,0.615,5,23.0,8,
+Butch Davis,0,"Florida International, Miami (FL), North Carolina",0.6,4,24.0,6,record adjusted to 86-61-0 by NCAA
+Les Miles,0,"Kansas, LSU, Oklahoma State",0.6,6,nan,9,
+Nick Saban,0,"Alabama, LSU, Michigan State, Toledo",0.6,10,nan,15,record adjusted to 246-65-1 by NCAA
+Jim Tressel,0,Ohio State,0.6,4,nan,6,record adjusted to 94-21-0 by NCAA
+Lou Holtz,2,"Arkansas, Minnesota, North Carolina State, Notre Dame, South Carolina, William & Mary",0.591,8,28.0,12,
+Bill Yeoman,1,Houston,0.591,4,nan,6,
+Mark Richt,0,"Georgia, Miami (FL)",0.588,7,30.0,10,
+Brian Kelly,0,"Central Michigan, Cincinnati, Notre Dame",0.583,5,31.0,7,record adjusted to 127-59-0 by NCAA
+Jackie Sherrill,0,"Mississippi State, Pitt, Texas A&M, Washington State",0.5710000000000001,6,32.0,8,record adjusted to 180-120-4 by NCAA
+Johnny Majors,0,"Iowa State, Pitt, Tennessee",0.563,7,33.0,9,
+John Vaught,0,Ole Miss,0.556,8,34.0,10,
+Bear Bryant,2,"Alabama, Kentucky, Maryland, Texas A&M",0.552,12,35.0,15,
+Jeff Bower,0,Southern Mississippi,0.545,5,36.0,6,record adjusted to 119-83-1 by NCAA
+Earle Bruce,0,"Colorado State, Iowa State, Ohio State",0.545,5,nan,6,
+Ken Niumatalolo,0,Navy,0.545,5,nan,6,
+Mark Dantonio,0,"Cincinnati, Michigan State",0.5379999999999999,6,39.0,7,
+Charles McClendon,0,LSU,0.5379999999999999,6,nan,7,record adjusted to 137-59-7 by NCAA
+Chris Petersen,0,"Boise State, Washington",0.5379999999999999,6,nan,7,
+Tommy Tuberville,0,"Auburn, Cincinnati, Ole Miss, Texas Tech",0.5379999999999999,6,nan,7,
+Phillip Fulmer,0,Tennessee,0.5329999999999999,7,43.0,8,record adjusted to 152-52-0 by NCAA
+Darrell Royal,1,"Mississippi State, Texas, Washington",0.531,7,44.0,8,
+Kirk Ferentz,0,Iowa,0.529,8,45.0,9,
+Steve Spurrier,0,"Duke, Florida, South Carolina",0.524,10,46.0,11,
+Mike Bellotti,0,Oregon,0.5,6,47.0,6,
+Troy Calhoun,0,Air Force,0.5,5,nan,5,
+Fisher DeBerry,0,Air Force,0.5,6,nan,6,
+Bronco Mendenhall,0,"Brigham Young, Virginia",0.5,7,nan,7,
+Bob Stoops,0,Oklahoma,0.5,9,nan,9,
+Tom Osborne,0,Nebraska,0.48,13,52.0,12,
+Frank Beamer,0,Virginia Tech,0.478,12,53.0,11,
+Bill Snyder,0,Kansas State,0.474,10,54.0,9,
+Mike Leach,0,"Mississippi State, Texas Tech, Washington State",0.467,8,55.0,7,
+Lloyd Carr,0,Michigan,0.462,7,56.0,6,
+Woody Hayes,0,Ohio State,0.455,6,57.0,5,
+George O'Leary,0,"UCF, Georgia Tech",0.455,6,nan,5,
+Bobby Petrino,0,"Arkansas, Louisville, Western Kentucky",0.455,6,nan,5,
+Rich Rodriguez,0,"Arizona, Michigan, West Virginia",0.455,6,nan,5,
+Vince Dooley,2,Georgia,0.45,10,61.0,8,
+Hayden Fry,1,"Iowa, North Texas, SMU",0.441,9,62.0,7,record adjusted to 233-177-10 by NCAA
+Frank Solich,0,"Nebraska, Ohio",0.43799999999999994,9,63.0,7,
+Dennis Erickson,0,"Arizona State, Idaho, Miami (FL), Oregon State, Washington State, Wyoming",0.41700000000000004,7,64.0,5,
+Ralph Jordan,0,Auburn,0.41700000000000004,7,nan,5,record adjusted to 176-83-6 by NCAA
+Frank Broyles,0,"Arkansas, Missouri",0.4,6,66.0,4,
+Ken Hatfield,0,"Air Force, Arkansas, Clemson, Rice",0.4,6,nan,4,
+Bill Mallory,0,"Colorado, Indiana, Miami (OH), Northern Illinois",0.4,6,nan,4,record adjusted to 168-129-4 by NCAA
+Paul Johnson,0,"Georgia Tech, Navy",0.385,8,69.0,5,record adjusted to 127-89-0 by NCAA
+Pat Hill,0,Fresno State,0.364,7,70.0,4,
+Joe Tiller,0,"Purdue, Wyoming",0.364,7,nan,4,
+John Cooper,0,"Arizona State, Ohio State, Tulsa",0.35700000000000004,9,72.0,5,
+Rocky Long,0,"New Mexico, San Diego State",0.35700000000000004,9,nan,5,
+Larry Smith,1,"Arizona, Missouri, USC, Tulane",0.35,6,74.0,3,
+LaVell Edwards,1,Brigham Young,0.341,14,75.0,7,
+George Welsh,0,"Navy, Virginia",0.33299999999999996,10,76.0,5,
+Don Nehlen,0,"Bowling Green State, West Virginia",0.308,9,77.0,4,
+Bill Dooley,0,"North Carolina, Virginia Tech, Wake Forest",0.3,7,78.0,3,record adjusted to 162-126-5 by NCAA
+Bo Schembechler,0,"Miami (OH), Michigan",0.294,12,79.0,5,
+Jerry Claiborne,0,"Kentucky, Maryland, Virginia Tech",0.273,8,80.0,3,
+R.C. Slocum,0,Texas A&M,0.273,8,nan,3,
+Fred Akers,0,"Purdue, Texas, Wyoming",0.2,8,82.0,2,
+Chris Ault,0,Nevada,0.2,8,nan,2,
