@@ -1,5 +1,8 @@
 # Table of Contents
-1. [Leland_Ball_Vaccine_Analysis_Report.pdf]()
+1. [data-and-code](https://github.com/gutenburgb/Applied_Data_Science_Portfolio/tree/main/referenced_deliverables/IST-772-statistical-methods-in-IST_us_vaccine_analysis/data-and-code)
+  - The data and code for this project
+
+2. [Leland_Ball_Vaccine_Analysis_Report.pdf](https://github.com/gutenburgb/Applied_Data_Science_Portfolio/blob/main/referenced_deliverables/IST-772-statistical-methods-in-IST_us_vaccine_analysis/Leland_Ball_Vaccine_Analysis_Report.pdf)
   - Report for this project
 
 # Running this script
